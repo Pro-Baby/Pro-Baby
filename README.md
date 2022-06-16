@@ -12,3 +12,10 @@ You can click the Preview link to take a look at your changes.
 ## Profile Visites: 
 ![Visitor Count](https://profile-counter.glitch.me/TheProGhost/count.svg)
 
+<!--
+[![HitCount](https://hits.dwyl.com/TheProGhost/TheProGhost.svg?style=flat-square)](http://hits.dwyl.com/TheProGhost/TheProGhost)
+
+
+[![HitCount](https://hits.dwyl.com/TheProGhost/TheProGhost.svg?style=flat&show=unique)](http://hits.dwyl.com/TheProGhost/TheProGhost)
+
+-->

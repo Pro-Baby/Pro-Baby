@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
 
-<img src="https://imgur.com/AJTLHxA" height=275px width=1000px>
+<img src="./Git_Cover.png" height=275px width=1000px>
 
 <h1>Hi 👋, I’m TheProGhost </h1>
 

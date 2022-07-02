@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
 
+<img src="./Git_Cover.png" height=275px width=1000px>
+
 <h1>Hi 👋, I’m TheProGhost </h1>
 
 <h3>A Cyber Security Enthusiast, also interested in Quantum Physics</h3>

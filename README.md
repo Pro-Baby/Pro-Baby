@@ -2,9 +2,15 @@
 TheProGhost/TheProGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align=center>
 
-<h1 align=center>Hi 👋, I’m TheProGhost </h1>
-<h3 align=center>A Cyber Security Enthusiast, also interested in Quantum Physics</h3>
+<h1>Hi 👋, I’m TheProGhost </h1>
+
+<h3>A Cyber Security Enthusiast, also interested in Quantum Physics</h3>
+
+![](https://komarev.com/ghpvc/?username=TheProGhost&color=brightgreen&label=PROFILE+VIEWS)
+</div>
+<br/>
 
 ## 🙋‍♂️ About Me:
 - 🌱 I’m currently pursuing **M.Tech Cyber Security**
@@ -41,9 +47,8 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=TheProGhost&theme=vue-dark)<br/>
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=TheProGhost&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Profile Visites: 
-![Visitor Count](https://profile-counter.glitch.me/TheProGhost/count.svg)
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/TheProGhost/count.svg) -->
 <!-- 
 [![HitCount](https://hits.dwyl.com/TheProGhost/TheProGhost.svg?style=flat-square)](http://hits.dwyl.com/TheProGhost/TheProGhost)
 

@@ -3,10 +3,10 @@ TheProGhost/TheProGhost is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align=center>Hi 👋, I’m Manan Vyas AKA TheProGhost </h1>
+<h1 align=center>Hi 👋, I’m TheProGhost </h1>
 <h3 align=center>A Cyber Security Enthusiast, also interested in Quantum Physics</h3>
 
-## About Me:
+## 🙋‍♂️ About Me:
 - 🌱 I’m currently pursuing **M.Tech Cyber Security**
 
 - 💬 Ask me about **Malware Analysis and Blockchain**
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I play games and Hungry for knowledge**
 
-## 🌐Social 
+## 🌐 Social 
 
 <a href="https://www.linkedin.com/in/manan-vyas-07444519a"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
 <a href="https://www.instagram.com/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
@@ -30,10 +30,12 @@ You can click the Preview link to take a look at your changes.
 ![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## 🏆Profile Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheProGhost&title=Joined2021,LongTimeUser,Commits,Followers,Repositories,PullRequest&theme=discord&no-bg=true" alt="TheProGhost" /></a> </p>
+## 🏆 Profile Trophies
+<div> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheProGhost&title=Joined2021,LongTimeUser,Commits,Followers,Repositories,PullRequest&theme=discord&no-bg=true" alt="TheProGhost" /></a> 
+</div>
 
-## 📊GitHub Stats :
+## 📊 GitHub Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheProGhost&theme=vue-dark)](https://git.io/streak-stats)<br/>
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=TheProGhost&theme=vue-dark)<br/>

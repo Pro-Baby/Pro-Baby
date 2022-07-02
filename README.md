@@ -47,6 +47,8 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=TheProGhost&theme=vue-dark)<br/>
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=TheProGhost&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/TheProGhost/count.svg) -->
 <!-- 

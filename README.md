@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Profile Trophies
 <div> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheProGhost&title=Joined2021,LongTimeUser,Commits,Followers,Repositories,PullRequest&theme=discord&no-bg=true" alt="TheProGhost" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheProGhost&title=Joined2021,LongTimeUser,Commits,Followers,Repositories,PullRequest&theme=discord&no-bg=false" alt="TheProGhost" /></a> 
 </div>
 
 ## 📊 GitHub Stats :

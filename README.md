@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Social 
 
 <a href="https://www.linkedin.com/in/manan-vyas-07444519a"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
-<a href="https://www.instagram.com/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+<a href="https://discord.com/channels/@me/694822029907722250"> <img src="https://img.icons8.com/color/48/000000/discord--v2.png"/> </a>
 <a href=""> <img src="https://img.icons8.com/color/48/000000/medium-logo.png"/> </a>
 <!-- <a href="https://mylovepoetries1234.blogspot.com/"> <img src="https://img.icons8.com/color/48/000000/blogger.png"/> </a> -->
 

@@ -1,10 +1,12 @@
 <!---
 TheProGhost/TheProGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="./Git_Cover.png" height=auto height=180px width=100%>
+- 💬 Ask me about **Malware Analysis and Blockchain**
 --->
 <div align=center>
 
-<img src="./Git_Cover.png" height=auto height=180px width=100%>
+
 
 <h1>Hi 👋, I’m TheProGhost </h1>
 
@@ -15,13 +17,11 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## 🙋‍♂️ About Me:
-- 🌱 I’m currently pursuing **M.Tech Cyber Security**
-
-- 💬 Ask me about **Malware Analysis and Blockchain**
+- 🌱 I’m currently working on **New Technologies** and also learning them.
 
 - 📫 How to reach me **[Email](99mananvyas@gmail.com)**
 
-- ⚡ Fun fact **I play games and Hungry for knowledge**
+- ⚡ Fun fact **I play games.**
 
 ## 🌐 Social 
 
